@@ -14,7 +14,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    transition: all 1000ms;
+    transition: all 1500ms;
 }
 img.current{
     z-index: 1;
